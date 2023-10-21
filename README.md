@@ -103,6 +103,7 @@ Please note that this conversion guide is subject to change as new features and 
 | esx:addInventoryItem | QBCore:Server:AddItem | - |
 | esx:removeInventoryItem | QBCore:Server:RemoveItem |  - |
 | esx:useItem | QBCore:Server:UseItem | - |
+| esx:playerLogout | QBCore:Client:OnPlayerUnload | - |
 
 ### QB Client Side Explanations
 
